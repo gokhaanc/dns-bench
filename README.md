@@ -46,8 +46,8 @@ dig -v
 ### Option 1: Clone & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dns-benchmark.git
-cd dns-benchmark
+git clone https://github.com/gokhaanc/dns-bench.git
+cd dns-bench
 chmod +x dns_benchmark.sh
 ./dns_benchmark.sh
 ```
@@ -55,7 +55,7 @@ chmod +x dns_benchmark.sh
 ### Option 2: Download & Run
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/dns-benchmark/main/dns_benchmark.sh
+curl -O https://raw.githubusercontent.com/gokhaanc/dns-bench/main/dns_benchmark.sh
 chmod +x dns_benchmark.sh
 ./dns_benchmark.sh
 ```
@@ -63,7 +63,7 @@ chmod +x dns_benchmark.sh
 ### Option 3: One-Liner
 
 ```bash
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/dns-benchmark/main/dns_benchmark.sh | bash
+curl -sL https://raw.githubusercontent.com/gokhaanc/dns-bench/main/dns_benchmark.sh | bash
 ```
 
 ---
